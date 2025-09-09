@@ -162,16 +162,11 @@ gradegraphs/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
 
-- **Kshitij** - *Initial work*
-- **Shweta** - *Development and enhancement*
-
-Built for the **COMPUTER DEPARTMENT** educational institution.
 
 ## 📞 Support
 
-For support, email your-email@example.com or create an issue in the repository.
+For support, email your-shwetatate30@gmail.com or create an issue in the repository.
 
 ## 🔮 Future Enhancements
 
