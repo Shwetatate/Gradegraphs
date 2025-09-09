@@ -171,7 +171,7 @@ Built for the **COMPUTER DEPARTMENT** educational institution.
 
 ## 📞 Support
 
-For support, email your-email@example.com or create an issue in the repository.
+For support, email Shwetatate30@gmail.com or create an issue in the repository.
 
 ## 🔮 Future Enhancements
 
